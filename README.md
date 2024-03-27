@@ -1,1 +1,1 @@
-# Netflix clone by Shin
+# Netflix-Clone by Shin
